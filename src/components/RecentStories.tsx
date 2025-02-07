@@ -2,7 +2,7 @@ import React from 'react';
 
 const stories = [
   {
-    image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f",
+    image: "img3.png",
     title: "It's Never Too Late to Learn",
     category: "Home Region",
     author: "Yee-Lin Lai",
@@ -10,14 +10,14 @@ const stories = [
     description: "At a Northwest Arkansas culinary hub, one resident creates a pathway to a fulfilling new career"
   },
   {
-    image: "https://images.unsplash.com/photo-1556911220-249c2bd29cbc",
+    image: "img4.png",
     title: "Brightwater Helps A Gluten-Free Baker Turn a Hobby Into a Successful Small Business",
     category: "Home Region",
     author: "Yee-Lin Lai",
     date: "December 17, 2024"
   },
   {
-    image: "https://images.unsplash.com/photo-1556911220-47c3f4f00953",
+    image: "img5.png",
     title: "Dispatch from Indonesia: Watching a New Tuna Harvest Strategy Unfold in Real Time",
     category: "Environment",
     author: "Leo Pradela",

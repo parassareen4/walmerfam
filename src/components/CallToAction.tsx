@@ -3,7 +3,7 @@ import React from 'react';
 const CallToAction = () => {
   return (
     <section className="py-16 px-6 bg-white">
-      <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
+      <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
         <div className="relative group cursor-pointer">
           <img
             src="https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&q=80"
@@ -22,7 +22,7 @@ const CallToAction = () => {
           </div>
         </div>
 
-        <div className="relative group cursor-pointer md:col-span-2">
+        <div className="relative group cursor-pointer md:col-span-1">
           <img
             src="https://images.unsplash.com/photo-1472214103451-9374bd1c798e?auto=format&fit=crop&q=80"
             alt="Learning and Leading"
